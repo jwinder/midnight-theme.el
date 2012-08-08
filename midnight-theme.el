@@ -3,7 +3,7 @@
 ;; Originally by Gordon Messmer (2001-02-07)
 ;; Ported to Emacs 24 by Joe Winder (2012-08-07)
 ;;
-;; https://github.com/jwinder/midnight-emacs-theme
+;; https://github.com/jwinder/midnight-theme.el
 ;;
 ;; This program is free software; you can redistribute it and/or
 ;; modify it under the terms of the GNU General Public License as
