@@ -1,4 +1,4 @@
-;; midnight-theme.el - GNU Emacs 24
+;;; midnight-theme.el - GNU Emacs 24
 ;;
 ;; Originally by Gordon Messmer (2001-02-07)
 ;; Ported to Emacs 24 by Joe Winder (2012-08-07)
@@ -59,6 +59,7 @@
  '(minibuffer-prompt ((t (:bold t :foreground "SkyBlue"))))
  '(italic ((t (:italic)))))
 
+;;;###autoload
 (when load-file-name
   (add-to-list 'custom-theme-load-path
                (file-name-as-directory (file-name-directory load-file-name))))
